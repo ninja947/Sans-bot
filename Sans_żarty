@@ -1,0 +1,5 @@
+import random 
+
+def Sans():
+    żarty_Sans = ["Życzę szczęścia i miłości niech cię jutro bolą kości.", "Dlaczego szkielety nie mogą grać muzyki KOŚĆielnej?               Bo nie mają organów", "Po co szkielet idzie do sklepu komputerowego?                By kupić sobie KOŚCI RAM.", "Jakie jest ulubione jedzenie szkieleta?                 Żeberka"]
+    return random.choice(żarty_Sans)
